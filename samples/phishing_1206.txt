@@ -1,0 +1,11 @@
+Source: Nazario phishing corpus (Kaggle), row 1206
+Category: Phishing (credential harvesting, fake IT notice)
+Sender: display name "monkey.org" <[address redacted]@[unrelated resort domain]>
+Subject: Email Queue - New Message (undelivered messages)
+Body (excerpt):
+monkey.org Service Announcement; Error Pending Messages. Action required.
+We are closing all your old versions of monkey.org. Click below to move to
+latest version and get more organized mailbox to avoid being disabled.
+[Upgrade-Now-To-Latest version]
+monkey.org IT Support. Message is auto-generated from E-mail security
+server, replies will not be accepted.
