@@ -1,0 +1,8 @@
+Source: Nazario phishing corpus (Kaggle), row 579
+Category: Phishing (credential harvesting, storage-limit scam)
+Sender: [name] <[address redacted]@[university domain]>
+Subject: Your Outlook exceeded
+Body (excerpt):
+Your Outlook exceeded its storage limit. Click here to verify account (FILL)
+and Click on Submit to get more space or you won't be able to send Mail.
+Note: sender appears to be a compromised account; details redacted.
