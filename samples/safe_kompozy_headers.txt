@@ -1,0 +1,13 @@
+Source: Author's own inbox (personal identifiers removed)
+Category: Safe (legitimate marketing email)
+From: Kompozy <hello@[kompozy.io]>
+Return-Path: pm_bounces@pm-bounces.[kompozy.io]
+Subject: Last note from me
+SPF: PASS (sending server authorised for the Return-Path domain)
+DKIM: PASS (signed by kompozy.io and by the Postmark delivery service)
+DMARC: PASS (policy: quarantine; From domain aligned)
+Transport: TLS 1.3
+Other: List-Unsubscribe and one-click unsubscribe headers; click-tracking
+links and a 1x1 open-tracking pixel (normal for marketing mail).
+Content: promotional, personalised greeting, no credential requests.
+Verdict: Safe (legitimate bulk marketing email)
