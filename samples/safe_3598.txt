@@ -1,0 +1,10 @@
+Source: SpamAssassin corpus (Kaggle), row 3598, label 0 (legitimate)
+Category: Safe (mailing-list discussion)
+Sender: [Sender A] <[address redacted]>
+Subject: central management
+Body (excerpt):
+hello! well in my eyes something like a public contrib repository would be
+nice (where everyone can at least upload spec files) and a something like a
+"repository directory" with a collection of available repositorys and their
+content. ... what do you think? thanks
+[RPM-List mailing list footer with list-info link]
