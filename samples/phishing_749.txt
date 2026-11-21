@@ -1,0 +1,13 @@
+Source: Nazario phishing corpus (Kaggle), row 749
+Category: Phishing (credential harvesting, fake help desk)
+Sender: [staff name] <[address redacted]@[school district domain]>
+Subject: RE: Ticket: Daily Bulletin !!
+Body (excerpt):
+WEBMAIL ACCOUNT SUPPORT. With the strengthening off our security system and
+improving your mailing experience, We have detected your mail server is out
+of date. To enhance computer system security and compliance with the
+federal audit requirements. All Sever Users are to update their account,
+kindly click on webmail to update your account to the latest Outlook Web
+Apps experience. NB: All current server user is advise to complete the
+directive above immediately. Sincerely, Help Desk Support Team
+Note: sender appears to be a compromised real account; details redacted.
