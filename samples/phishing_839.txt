@@ -1,0 +1,13 @@
+Source: Nazario phishing corpus (Kaggle), row 839
+Category: Phishing (credential harvesting, brand impersonation)
+Sender: "LinkedIn Security" <admin@nowinter.cf>
+Subject: Comfirm Your Account Information
+Body (excerpt):
+Dear, Some information on your account appears to be missing or incorrect.
+Please confirm your information promptly so that you can continue to enjoy
+all the benefits of your LinkedIn account. If you don't confirm your
+information, we'll Terminate your LinkedIn account. Follow the link below
+to comfirm your account. [Confirm Your Account]
+[IMPORTANT] if this letter sent as junk or spam its just an error by our
+new system, please click not spam or not junk.
+(Message text repeats in the original; truncated here.)
