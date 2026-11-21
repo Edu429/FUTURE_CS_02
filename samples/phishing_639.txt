@@ -1,0 +1,10 @@
+Source: Nazario phishing corpus (Kaggle), row 639
+Category: Phishing (credential harvesting, fake deletion request)
+Sender: Email Verification <admin@verification.com>
+Subject: Urgent Account Verification
+Body (excerpt):
+Dear [recipient redacted]; We have received a request to permanently delete
+your mailbox account from this server and we will act on it immediately.
+If you do not make this request, please click the link below to cancel
+now. [REACTIVATE ACCOUNT]
+Sincerely, EMAIL security team
