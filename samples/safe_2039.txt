@@ -1,0 +1,9 @@
+Source: SpamAssassin corpus (Kaggle), row 2039, label 0 (legitimate)
+Category: Safe (RSS feed item)
+Sender: ask <rssfeeds@spamassassin.taint.org>
+Subject: Oracle of Google
+Body (excerpt):
+A short blog summary about a tool that answers multiple-choice questions,
+with a link to the original post. No credential requests or pressure.
+Note: the odd-looking sender domain is part of the dataset's test setup, a
+reminder to judge content and behaviour as well as the address.
