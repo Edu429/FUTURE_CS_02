@@ -1,0 +1,13 @@
+Source: Nigerian Fraud dataset (Kaggle), row 825
+Category: Phishing / advance-fee fraud
+Sender: "Dr. [name]" <[address redacted]@voila.fr>  (free webmail)
+Subject: YOUR ASSISTANCE IS NEEDED
+Body (excerpt):
+FROM THE DESK OF DR. [NAME], DIRECTOR, PROJECT IMPLEMENTATION, FEDERAL
+MINISTRY OF HEALTH AND SOCIAL SERVICES, DAKAR-SENEGAL. STRICTLY
+CONFIDENTIAL. DEAR FRIEND, TRANSFER OF US$25.5 MILLION INTO A
+PERSONAL/COMPANY'S OFFSHORE ACCOUNT. We intend to solicit your assistance
+on this transaction on the assumption that you will not disappoint us. We
+have US$25,500,000.00 which we made over time from over inflated contracts
+in my Ministry...
+(Original continues; truncated here.)
