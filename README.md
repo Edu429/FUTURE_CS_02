@@ -36,3 +36,4 @@ See the full list of user and organisation guidelines in the report: [Phishing_R
 
 ## Full Report
 [Phishing_Report.md](report/Phishing_Report.md)
+[Phishing_Report.pdf](report/Phishing_Report.pdf)
