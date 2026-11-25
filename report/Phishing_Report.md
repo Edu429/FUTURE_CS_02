@@ -66,6 +66,7 @@ Verdict: Safe, a legitimate marketing email. Passing authentication shows that t
 - The dataset emails are older and contain subject and body only, with no raw headers or live link destinations.
 - Only one email had full header results.
 - Sample size is small (10 emails) and chosen by me.
+- A Python script skipped malformed CSV rows when loading the datasets, so the row counts are lower than the full datasets and samples were drawn from the rows that parsed correctly.
 
 ## 8. Sources
 - Alam, N. A. "Phishing Email Dataset" (Kaggle): https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset (Nazario, Nigerian Fraud and SpamAssassin files).
