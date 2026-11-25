@@ -29,6 +29,8 @@ See the table in the README. Details per email:
 **Sample 825 – Phishing (advance-fee fraud).** Claims to come from a government ministry director but uses a free webmail address. It stresses secrecy, promises millions of dollars and asks for help moving money offshore. This is a typical setup before fees or bank details are requested.
 
 **Samples 3598, 596, 2039 – Safe.** Ordinary discussion or feed content with no credential requests, no urgency and no pressure. Sample 2039 has an odd-looking sender domain, which shows that content and behaviour matter as well as the address.
+![Python label counts](../screenshots/01_python_label_counts.png)
+![Phishing sample 839](../screenshots/02_phishing_sample_839.png)
 
 ## 4. Email header analysis
 | Check | Result |
@@ -40,6 +42,7 @@ See the table in the README. Details per email:
 | Bulk-mail signs | Unsubscribe headers, click tracking, open-tracking pixel |
 
 Verdict: Safe, a legitimate marketing email. Passing authentication shows that the sender controls the domain it claims. It does not prove the sender is trustworthy, because attackers can also set up valid authentication on their own lookalike domains. For a phishing email, signs to look for are SPF or DKIM failing, DMARC failing, and a Return-Path or Reply-To that does not match the From address. The dataset emails did not include raw headers, and no suitable phishing email was found in my own inbox, so a failing example was not analysed.
+![Email authentication results](../screenshots/03_header_auth_results.png)
 
 ## 5. Common phishing techniques
 - **Spoofing and lookalike domains:** the display name says one organisation while the real address belongs to another.
