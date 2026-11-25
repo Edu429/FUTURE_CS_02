@@ -1,7 +1,7 @@
 # Phishing Email Detection & Awareness Report
 Future Interns – Cyber Security Internship (Task 2)
 
-**Author:** EDWIN MWONGERA 
+**Author:** EDWIN MWONGERA ,
     Github : (Edu429)
 
 ## Objective
