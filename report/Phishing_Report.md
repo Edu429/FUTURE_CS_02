@@ -1,6 +1,6 @@
 # Phishing Email Detection & Awareness Report
 Future Interns – Cyber Security Internship, Task 2
-Author: Eddie (Edu429)
+Author: EDWIN (Edu429)
 
 ## 1. Summary
 I analysed 10 emails: 6 phishing and 4 safe. The phishing set contains five credential-harvesting emails that impersonate IT teams or well-known brands, and one advance-fee scam. Every phishing email used urgency or fear, a generic greeting, and a request to click a link or hand over something sensitive. The safe set contains three ordinary mailing-list or feed messages and one legitimate marketing email whose headers pass SPF, DKIM and DMARC.
