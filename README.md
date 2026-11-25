@@ -1,7 +1,8 @@
 # Phishing Email Detection & Awareness Report
 Future Interns – Cyber Security Internship (Task 2)
 
-**Author:** EDWIN MWONGERA (Edu429)
+**Author:** EDWIN MWONGERA 
+Github : (Edu429)
 
 ## Objective
 Analyse a set of sample emails, identify phishing indicators, classify each as Safe / Suspicious / Phishing, and provide prevention guidelines in plain business language.
