@@ -67,5 +67,4 @@ Verdict: Safe, a legitimate marketing email. Passing authentication shows that t
 - Sample size is small (10 emails) and chosen by me.
 
 ## 8. Sources
-- [DATASET NAME AND KAGGLE LINK] (Nazario, Nigerian Fraud and SpamAssassin files)
-- Author's own inbox for the header sample (identifiers removed)
+- Alam, N. A. "Phishing Email Dataset" (Kaggle): https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset (Nazario, Nigerian Fraud and SpamAssassin files).
